@@ -23,4 +23,4 @@ Gostou da planilha ? Poderia me pagar um café ?
 
 [Via picpay R$ 5,00](https://picpay.me/tiagoiwamoto/5.0)
 
-Via Pix: 
+Via Pix: tiago.iwamoto@gmail.com
