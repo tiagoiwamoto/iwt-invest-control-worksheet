@@ -2,7 +2,14 @@
     Planilha para controle de investimentos realizados na bolsa de valores.
     Com esta planilha você vai conseguir ter um controle de taxas, ganhos e perdas.
 
+### Formatos
+Arquivo .et é aberto pelo WPS Office
+Arquivo .odt é aberto pelo LibreOffice
+Arquivo .xlsx é aberto pelo Microsoft Office
+
 ### Compatibilidade
+[WPS Office 11.2.x ou superior](https://www.wps.com/pt-BR/)
+
 [Libre Office 7.1 ou superior](https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/)
 
 [Microsoft Office 2016 ou superior](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=Cj0KCQiA7YyCBhD_ARIsALkj54plll_Z-V7XhXAFTGOI98c-wKXLtPAiZGVCU-HorjN-0faUoKlX2KEaAoyfEALw_wcB:G:s&OCID=AID2100139_SEM_Cj0KCQiA7YyCBhD_ARIsALkj54plll_Z-V7XhXAFTGOI98c-wKXLtPAiZGVCU-HorjN-0faUoKlX2KEaAoyfEALw_wcB:G:s&lnkd=Google_O365SMB_Brand&gclid=Cj0KCQiA7YyCBhD_ARIsALkj54plll_Z-V7XhXAFTGOI98c-wKXLtPAiZGVCU-HorjN-0faUoKlX2KEaAoyfEALw_wcB)
